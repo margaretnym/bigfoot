@@ -8,7 +8,8 @@ A data set of bigfoot sighting reports was collected from the [Geographic Databa
 
 ### The Problem
 
-Find something interesting in the data! That's not very specific, so here are some thoughts to get you going:
 * What state has the most bigfoot sightings? Can you visualize this/compare them?
 
 A huge part of the challenge for this case study will be getting the data into a usable form, so don't fret about finding something mind-blowingly insightful in the data. Simply verifying a suspicion you have with a model or summarizing a quality about the data that is difficult to see in the raw data is good data science.
+
+
